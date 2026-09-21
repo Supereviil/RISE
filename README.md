@@ -1,5 +1,6 @@
 # RISE - Radiation Island Save Editor
-<img width="615" height="518" alt="logo" src="https://github.com/user-attachments/assets/e262d6da-29cc-4b9d-90b5-11b0c7eb6e12" />
+<img width="1080" height="600" alt="banner-small" src="https://github.com/user-attachments/assets/8aabf1de-c11c-418e-a772-f877d0e86ec5" />
+
 
 **RISE** is a Windows save editor and reverse-engineering toolkit for the Steam version of **Radiation Island**.
 
