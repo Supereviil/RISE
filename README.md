@@ -288,19 +288,6 @@ If possible, include the original unmodified save that reproduces the problem.
 
 ---
 
-## Screenshots
-
-<img width="1040" height="720" alt="01" src="https://github.com/user-attachments/assets/cba03e9c-62be-4dd1-979c-5872c3da4060" />
-<img width="1040" height="902" alt="02" src="https://github.com/user-attachments/assets/d9821fab-7c0b-43f4-9322-d549dd18df9d" />
-<img width="1040" height="741" alt="03" src="https://github.com/user-attachments/assets/879bff95-2813-454d-b336-460da641710d" />
-<img width="1040" height="741" alt="04" src="https://github.com/user-attachments/assets/765a525c-36b2-48c4-96cf-40be8c768d12" />
-<img width="1040" height="741" alt="05" src="https://github.com/user-attachments/assets/bdfee057-bed2-4bde-a5e2-1b47e3dd71db" />
-<img width="1040" height="942" alt="06" src="https://github.com/user-attachments/assets/96510a11-8e73-42d3-8fff-41ddc4080045" />
-<img width="1026" height="713" alt="07" src="https://github.com/user-attachments/assets/9088301c-ffae-4e2a-ae0e-23e89bfc245f" />
-
-
----
-
 ## Compatibility
 
 RISE is currently designed for:
