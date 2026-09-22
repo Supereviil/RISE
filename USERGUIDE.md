@@ -70,12 +70,6 @@ On open, RISE:
 | Round trip OK | Safe to edit and save (subject to count-safety rules below). |
 | Round trip FAILED | Parser misread something. Inspection is fine; **do not overwrite** the original. Use **Save As** only if you intentionally want a rebuilt copy for research. |
 
-Optional CLI check before editing:
-
-```
-RISECmd verify "...\save\68637065\000\svr_state_0.stt"
-```
-
 ---
 
 ## 3. Editing Inventory
