@@ -317,6 +317,13 @@ Editing save files always carries some risk. Keep backups and test modified save
 
 ---
 
+### Support the Project  
+If you’d like to support development, you can visit my Ko‑Fi page:
+
+**[☕ Superevil on Ko‑Fi](https://ko-fi.com/superevil)**
+
+---
+
 ## Credits
 
 **RISE - Radiation Island Save Editor**
